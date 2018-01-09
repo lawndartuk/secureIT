@@ -1,4 +1,4 @@
-Shared infrastructure, type 2
+Shared infrastructure, type 2.  There is an ask for type 3 support
 Where is the CMDB
 What are the reasonable CMDB entries?
 what does it mean to bea CMDB entry when we are in a shared environment, or auto-scaling?
